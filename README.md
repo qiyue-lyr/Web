@@ -1,1 +1,0 @@
-# A carousel demo
